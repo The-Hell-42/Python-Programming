@@ -9,3 +9,5 @@ I learned basic of Python <br>
 I will complete writing notes on Date:10/01/2023<br>
  I will continue on learning on Date:10/01/2023<br>
 
+From today Date:11/03/2023 <br>
+We will continue learning python 
