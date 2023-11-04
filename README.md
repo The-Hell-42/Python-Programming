@@ -10,4 +10,6 @@ I will complete writing notes on Date:10/01/2023<br>
  I will continue on learning on Date:10/01/2023<br>
 
 From today Date:11/03/2023 <br>
-We will continue learning python 
+We will continue learning python<br>
+Done Revision till day 19 <br>
+Will continue the rest from Date: 11/05/2023.<br>
